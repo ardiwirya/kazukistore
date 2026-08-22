@@ -74,14 +74,14 @@ const socials = [
           <li><span class="cursor-default text-sm text-slate-400">Syarat & Ketentuan</span></li>
         </ul>
         <div class="mt-5 rounded-xl border border-white/5 bg-base-850 p-3 text-xs text-slate-500">
-          Ini adalah proyek portfolio front-end. Seluruh transaksi bersifat simulasi dan tidak menggunakan uang sungguhan.
+          Seluruh transaksi bersifat simulasi dan tidak menggunakan uang sungguhan.
         </div>
       </div>
     </div>
 
     <div class="border-t border-white/5 py-6">
       <p class="container-kazuki text-center text-xs text-slate-500">
-        © {{ year }} KazukiStore. Dibuat oleh Ardi Wirya sebagai project portfolio Front-End Developer.
+        © {{ year }} KazukiStore. Dibuat oleh Ardi Wirya.
       </p>
     </div>
   </footer>
